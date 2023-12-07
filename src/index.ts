@@ -1,2 +1,2 @@
-const myFunc = (a: number, b: number) => a + b;
+const myFunc = (b: number, c: number) => b + c;
 export default myFunc;
